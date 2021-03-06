@@ -1,0 +1,10 @@
+Package: terraCUDA
+Type: Package
+Title: terraCUDA: Tools for the Terra/AnVIL Platform
+Version: 0.1.0
+Author: Eliot Stanton, Natalie Starczewski, Lauren Wagner
+Maintainer: BJ Stubbs <stubbsb@simmons.edu>
+Description: Tools for the Terra/AnVIL Platform
+License: none
+Encoding: UTF-8
+LazyData: true
