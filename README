@@ -1,5 +1,5 @@
 This package was co-created by Eliot Stanton for CS 347 (Applied Data Science) at Simmons University in Spring 2020.
-Some sample functions are included here (terracudaPriv/R/terracuda.R) on this private repository as an example of Eliot's work in R.
+Some sample functions are included here (terracudaPriv/R/terracuda.R) on this repository as an example of Eliot's work in R.
 
 Package: terraCUDA
 Type: Package
